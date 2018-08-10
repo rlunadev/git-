@@ -1,4 +1,4 @@
-`
+<pre>
 git init
 git status
 git add
@@ -97,7 +97,7 @@ alias.undo checkout --
 alias.bv branch -v
 alias.ps push origin master
 alias.cb checkout -b
-`
+</pre>
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
